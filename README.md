@@ -6,8 +6,7 @@ This application provides an easy-to-use interface for managing books, tracking 
 
 ## 🚀 Live Demo
 
-🔗 Streamlit Live App: Coming Soon
-
+🔗 Streamlit Live App: Coming Soon (https://library-management-system-mobsljmbefzuhgkqw6nhvk.streamlit.app)
 ## ✨ Features
 
 - 📊 Professional Dashboard
