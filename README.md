@@ -125,7 +125,7 @@ Return Date
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/sunnythakursunny650-cell/LIbrary-Management-System/tree/main)
 
 Open the project folder:
 
