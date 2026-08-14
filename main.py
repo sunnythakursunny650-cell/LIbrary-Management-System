@@ -6,7 +6,6 @@ class Book:
         self.status = "Available"
 
 books = []
-
 def add_book():
     book_id = input("Enter Book ID: ")
     book_name = input("Enter Book Name: ")
@@ -75,9 +74,8 @@ def return_book():
             else:
                 print("Book is already Available")
             return
-
+        
     print("Book Not Found ❌")
-
 
 while True:
     print("\n===== Library Management System =====")
@@ -106,8 +104,10 @@ while True:
         return_book()
 
     elif choice == "6":
-        print("Thank you for using Library Management System 📚")
-        break
 
+        print("Thank you for using Library Management System 📚")
+
+        break
+    
     else:
         print("Invalid Choice ❌")
